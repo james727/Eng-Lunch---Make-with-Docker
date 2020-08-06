@@ -1,0 +1,11 @@
+{
+  "name": "eng_lunch",
+  "version": "1.0.0",
+  "description": "eng lunch demo app",
+  "main": "app.js",
+  "author": "bedrock",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
